@@ -1,0 +1,1 @@
+{"id":"b6dbcfc1-3d3f-41cf-bae0-62adc9159a88","space":26889,"runtime":"python3.9","name":"pizzafastapi","path":"kpwxms","project":"a03ig0ja","account":"144798365827","region":"eu-central-1","deps":["fastapi","uvicorn","sqlalchemy_utils","mysql-connector-python","passlib[bcrypt]","fastapi-jwt-auth"],"envs":null,"public":true,"log_level":"debug","cron":""}
