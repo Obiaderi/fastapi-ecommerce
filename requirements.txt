@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy_utils
+mysql-connector-python
+passlib[bcrypt]
+fastapi-jwt-auth
